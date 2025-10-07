@@ -1,0 +1,1228 @@
+[{
+  "_id": {
+    "$oid": "68d28c3f49928d96d4c6bbf2"
+  },
+  "title": {
+    "$oid": "68d28b23902d7c31d3c9763a"
+  },
+  "description": {
+    "$oid": "68d1471ee33d4663a3de1c36"
+  },
+  "sizeOptions": [
+    {
+      "size": "30ml",
+      "price": 17000,
+      "_id": {
+        "$oid": "68d28c3f49928d96d4c6bbf3"
+      }
+    },
+    {
+      "size": "60ml",
+      "price": 20000,
+      "_id": {
+        "$oid": "68d28c3f49928d96d4c6bbf4"
+      }
+    }
+  ],
+  "defaultAddOns": [
+    {
+      "kind": "Sugars:",
+      "option": "2",
+      "price": 0,
+      "_id": {
+        "$oid": "68d28c3f49928d96d4c6bbf5"
+      }
+    }
+  ],
+  "possibleAddOns": [
+    {
+      "kind": "Sugars:",
+      "option": "1",
+      "price": 0,
+      "_id": {
+        "$oid": "68d28c3f49928d96d4c6bbf7"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "2",
+      "price": 0,
+      "_id": {
+        "$oid": "68d28c3f49928d96d4c6bbf8"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "3",
+      "price": 0,
+      "_id": {
+        "$oid": "68d28c3f49928d96d4c6bbf9"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Caramel",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d28c3f49928d96d4c6bbfa"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Chocolate",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d28c3f49928d96d4c6bbfb"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Coconut",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d28c3f49928d96d4c6bbfc"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Vanilla",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d28c3f49928d96d4c6bbfd"
+      }
+    },
+    {
+      "kind": "Marshmellows:",
+      "option": "Marshmellow",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d28c3f49928d96d4c6bbfe"
+      }
+    },
+    {
+      "kind": "Whipped Cream (slivki):",
+      "option": "Whipped Cream",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d28c3f49928d96d4c6bbff"
+      }
+    },
+    {
+      "kind": "Topping:",
+      "option": "Topping",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d28c3f49928d96d4c6bc00"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-23T12:02:07.418Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-23T12:02:07.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d2a0242016afcc90048abd"
+  },
+  "title": {
+    "$oid": "68d2a0242016afcc90048aba"
+  },
+  "description": {
+    "$oid": "68d1471ee33d4663a3de1c36"
+  },
+  "sizeOptions": [
+    {
+      "size": "250ml",
+      "price": 21000,
+      "_id": {
+        "$oid": "68d2a0242016afcc90048abe"
+      }
+    },
+    {
+      "size": "350ml",
+      "price": 25000,
+      "_id": {
+        "$oid": "68d2a0242016afcc90048abf"
+      }
+    }
+  ],
+  "defaultAddOns": [
+    {
+      "kind": "Sugars:",
+      "option": "2",
+      "price": 0,
+      "_id": {
+        "$oid": "68d2a0242016afcc90048ac0"
+      }
+    }
+  ],
+  "possibleAddOns": [
+    {
+      "kind": "Sugars:",
+      "option": "1",
+      "price": 0,
+      "_id": {
+        "$oid": "68d2a0242016afcc90048ac2"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "2",
+      "price": 0,
+      "_id": {
+        "$oid": "68d2a0242016afcc90048ac3"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "3",
+      "price": 0,
+      "_id": {
+        "$oid": "68d2a0242016afcc90048ac4"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Caramel",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d2a0242016afcc90048ac5"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Chocolate",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d2a0242016afcc90048ac6"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Coconut",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d2a0242016afcc90048ac7"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Vanilla",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d2a0242016afcc90048ac8"
+      }
+    },
+    {
+      "kind": "Marshmellows:",
+      "option": "Marshmellow",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d2a0242016afcc90048ac9"
+      }
+    },
+    {
+      "kind": "Whipped Cream (slivki):",
+      "option": "Whipped Cream",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d2a0242016afcc90048aca"
+      }
+    },
+    {
+      "kind": "Topping:",
+      "option": "Topping",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d2a0242016afcc90048acb"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-23T13:27:00.226Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-23T13:27:00.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3ce015b5da0ad8594127d"
+  },
+  "title": {
+    "$oid": "68d3ce015b5da0ad8594127a"
+  },
+  "description": {
+    "$oid": "68d1471ee33d4663a3de1c36"
+  },
+  "sizeOptions": [
+    {
+      "size": "250ml",
+      "price": 21000,
+      "_id": {
+        "$oid": "68d3ce015b5da0ad8594127e"
+      }
+    },
+    {
+      "size": "350ml",
+      "price": 25000,
+      "_id": {
+        "$oid": "68d3ce015b5da0ad8594127f"
+      }
+    }
+  ],
+  "defaultAddOns": [
+    {
+      "kind": "Sugars:",
+      "option": "2",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3ce015b5da0ad85941280"
+      }
+    }
+  ],
+  "possibleAddOns": [
+    {
+      "kind": "Sugars:",
+      "option": "0",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3ce015b5da0ad85941281"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "1",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3ce015b5da0ad85941282"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "2",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3ce015b5da0ad85941283"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "3",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3ce015b5da0ad85941284"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Caramel",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3ce015b5da0ad85941285"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Chocolate",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3ce015b5da0ad85941286"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Coconut",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3ce015b5da0ad85941287"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Vanilla",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3ce015b5da0ad85941288"
+      }
+    },
+    {
+      "kind": "Marshmellows:",
+      "option": "Marshmellow",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3ce015b5da0ad85941289"
+      }
+    },
+    {
+      "kind": "Whipped Cream (slivki):",
+      "option": "Whipped Cream",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3ce015b5da0ad8594128a"
+      }
+    },
+    {
+      "kind": "Topping:",
+      "option": "Topping",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3ce015b5da0ad8594128b"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-24T10:54:57.924Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T10:54:57.924Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3ceb15b5da0ad85941291"
+  },
+  "title": {
+    "$oid": "68d3ceb15b5da0ad8594128e"
+  },
+  "description": {
+    "$oid": "68d1471ee33d4663a3de1c36"
+  },
+  "sizeOptions": [
+    {
+      "size": "200ml",
+      "price": 18000,
+      "_id": {
+        "$oid": "68d3ceb15b5da0ad85941292"
+      }
+    },
+    {
+      "size": "300ml",
+      "price": 21000,
+      "_id": {
+        "$oid": "68d3ceb15b5da0ad85941293"
+      }
+    }
+  ],
+  "defaultAddOns": [
+    {
+      "kind": "Sugars:",
+      "option": "2",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3ceb15b5da0ad85941294"
+      }
+    }
+  ],
+  "possibleAddOns": [
+    {
+      "kind": "Sugars:",
+      "option": "0",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3ceb15b5da0ad85941295"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "1",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3ceb15b5da0ad85941296"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "2",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3ceb15b5da0ad85941297"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "3",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3ceb15b5da0ad85941298"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Caramel",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3ceb15b5da0ad85941299"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Chocolate",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3ceb15b5da0ad8594129a"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Coconut",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3ceb15b5da0ad8594129b"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Vanilla",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3ceb15b5da0ad8594129c"
+      }
+    },
+    {
+      "kind": "Marshmellows:",
+      "option": "Marshmellow",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3ceb15b5da0ad8594129d"
+      }
+    },
+    {
+      "kind": "Whipped Cream (slivki):",
+      "option": "Whipped Cream",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3ceb15b5da0ad8594129e"
+      }
+    },
+    {
+      "kind": "Topping:",
+      "option": "Topping",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3ceb15b5da0ad8594129f"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-24T10:57:53.347Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T10:57:53.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d1f25b5da0ad859412a5"
+  },
+  "title": {
+    "$oid": "68d3d1f25b5da0ad859412a2"
+  },
+  "description": {
+    "$oid": "68d1471ee33d4663a3de1c36"
+  },
+  "sizeOptions": [
+    {
+      "size": "250ml",
+      "price": 21000,
+      "_id": {
+        "$oid": "68d3d1f25b5da0ad859412a6"
+      }
+    },
+    {
+      "size": "350ml",
+      "price": 25000,
+      "_id": {
+        "$oid": "68d3d1f25b5da0ad859412a7"
+      }
+    }
+  ],
+  "defaultAddOns": [
+    {
+      "kind": "Sugars:",
+      "option": "2",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3d1f25b5da0ad859412a8"
+      }
+    }
+  ],
+  "possibleAddOns": [
+    {
+      "kind": "Sugars:",
+      "option": "0",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3d1f25b5da0ad859412a9"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "1",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3d1f25b5da0ad859412aa"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "2",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3d1f25b5da0ad859412ab"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "3",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3d1f25b5da0ad859412ac"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Caramel",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d1f25b5da0ad859412ad"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Chocolate",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d1f25b5da0ad859412ae"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Coconut",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d1f25b5da0ad859412af"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Vanilla",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d1f25b5da0ad859412b0"
+      }
+    },
+    {
+      "kind": "Marshmellows:",
+      "option": "Marshmellow",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d1f25b5da0ad859412b1"
+      }
+    },
+    {
+      "kind": "Whipped Cream (slivki):",
+      "option": "Whipped Cream",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d1f25b5da0ad859412b2"
+      }
+    },
+    {
+      "kind": "Topping:",
+      "option": "Topping",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d1f25b5da0ad859412b3"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-24T11:11:46.765Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T11:11:46.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d2745b5da0ad859412b9"
+  },
+  "title": {
+    "$oid": "68d3d2745b5da0ad859412b6"
+  },
+  "description": {
+    "$oid": "68d1471ee33d4663a3de1c36"
+  },
+  "sizeOptions": [
+    {
+      "size": "250ml",
+      "price": 21000,
+      "_id": {
+        "$oid": "68d3d2745b5da0ad859412ba"
+      }
+    },
+    {
+      "size": "350ml",
+      "price": 25000,
+      "_id": {
+        "$oid": "68d3d2745b5da0ad859412bb"
+      }
+    }
+  ],
+  "defaultAddOns": [
+    {
+      "kind": "Sugars:",
+      "option": "2",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3d2745b5da0ad859412bc"
+      }
+    }
+  ],
+  "possibleAddOns": [
+    {
+      "kind": "Sugars:",
+      "option": "0",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3d2745b5da0ad859412bd"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "1",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3d2745b5da0ad859412be"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "2",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3d2745b5da0ad859412bf"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "3",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3d2745b5da0ad859412c0"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Caramel",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d2745b5da0ad859412c1"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Chocolate",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d2745b5da0ad859412c2"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Coconut",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d2745b5da0ad859412c3"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Vanilla",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d2745b5da0ad859412c4"
+      }
+    },
+    {
+      "kind": "Marshmellows:",
+      "option": "Marshmellow",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d2745b5da0ad859412c5"
+      }
+    },
+    {
+      "kind": "Whipped Cream (slivki):",
+      "option": "Whipped Cream",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d2745b5da0ad859412c6"
+      }
+    },
+    {
+      "kind": "Topping:",
+      "option": "Topping",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d2745b5da0ad859412c7"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-24T11:13:56.027Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T11:13:56.027Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d2b45b5da0ad859412cd"
+  },
+  "title": {
+    "$oid": "68d3d2b45b5da0ad859412ca"
+  },
+  "description": {
+    "$oid": "68d1471ee33d4663a3de1c36"
+  },
+  "sizeOptions": [
+    {
+      "size": "250ml",
+      "price": 23000,
+      "_id": {
+        "$oid": "68d3d2b45b5da0ad859412ce"
+      }
+    }
+  ],
+  "defaultAddOns": [
+    {
+      "kind": "Sugars:",
+      "option": "2",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3d2b45b5da0ad859412cf"
+      }
+    }
+  ],
+  "possibleAddOns": [
+    {
+      "kind": "Sugars:",
+      "option": "0",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3d2b45b5da0ad859412d0"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "1",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3d2b45b5da0ad859412d1"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "2",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3d2b45b5da0ad859412d2"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "3",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3d2b45b5da0ad859412d3"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Caramel",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d2b45b5da0ad859412d4"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Chocolate",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d2b45b5da0ad859412d5"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Coconut",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d2b45b5da0ad859412d6"
+      }
+    },
+    {
+      "kind": "Syrops:",
+      "option": "Vanilla",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d2b45b5da0ad859412d7"
+      }
+    },
+    {
+      "kind": "Marshmellows:",
+      "option": "Marshmellow",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d2b45b5da0ad859412d8"
+      }
+    },
+    {
+      "kind": "Whipped Cream (slivki):",
+      "option": "Whipped Cream",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d2b45b5da0ad859412d9"
+      }
+    },
+    {
+      "kind": "Topping:",
+      "option": "Topping",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d2b45b5da0ad859412da"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-24T11:15:00.191Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T11:15:00.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d39f5b5da0ad859412e0"
+  },
+  "title": {
+    "$oid": "68d3d39f5b5da0ad859412dd"
+  },
+  "description": {
+    "$oid": "68d1471ee33d4663a3de1c36"
+  },
+  "sizeOptions": [
+    {
+      "size": "350ml",
+      "price": 7000,
+      "_id": {
+        "$oid": "68d3d39f5b5da0ad859412e1"
+      }
+    }
+  ],
+  "defaultAddOns": [],
+  "possibleAddOns": [
+    {
+      "kind": "Sugars:",
+      "option": "1",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3d39f5b5da0ad859412e2"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "2",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3d39f5b5da0ad859412e3"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "3",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3d39f5b5da0ad859412e4"
+      }
+    },
+    {
+      "kind": "Lemons:",
+      "option": "Lemon",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d39f5b5da0ad859412e5"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-24T11:18:55.639Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T11:18:55.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d3b55b5da0ad859412eb"
+  },
+  "title": {
+    "$oid": "68d3d3b55b5da0ad859412e8"
+  },
+  "description": {
+    "$oid": "68d1471ee33d4663a3de1c36"
+  },
+  "sizeOptions": [
+    {
+      "size": "350ml",
+      "price": 7000,
+      "_id": {
+        "$oid": "68d3d3b55b5da0ad859412ec"
+      }
+    }
+  ],
+  "defaultAddOns": [],
+  "possibleAddOns": [
+    {
+      "kind": "Sugars:",
+      "option": "1",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3d3b55b5da0ad859412ed"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "2",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3d3b55b5da0ad859412ee"
+      }
+    },
+    {
+      "kind": "Sugars:",
+      "option": "3",
+      "price": 0,
+      "_id": {
+        "$oid": "68d3d3b55b5da0ad859412ef"
+      }
+    },
+    {
+      "kind": "Lemons:",
+      "option": "Lemon",
+      "price": 3000,
+      "_id": {
+        "$oid": "68d3d3b55b5da0ad859412f0"
+      }
+    }
+  ],
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-24T11:19:17.078Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T11:19:17.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d4bd5b5da0ad859412f6"
+  },
+  "title": {
+    "$oid": "68d3d4bd5b5da0ad859412f3"
+  },
+  "description": {
+    "$oid": "68d1471ee33d4663a3de1c36"
+  },
+  "sizeOptions": [
+    {
+      "size": "350ml",
+      "price": 30000,
+      "_id": {
+        "$oid": "68d3d4bd5b5da0ad859412f7"
+      }
+    }
+  ],
+  "defaultAddOns": [],
+  "possibleAddOns": [],
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-24T11:23:41.994Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T11:23:41.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d5005b5da0ad859412fd"
+  },
+  "title": {
+    "$oid": "68d3d5005b5da0ad859412fa"
+  },
+  "description": {
+    "$oid": "68d1471ee33d4663a3de1c36"
+  },
+  "sizeOptions": [
+    {
+      "size": "350ml",
+      "price": 30000,
+      "_id": {
+        "$oid": "68d3d5005b5da0ad859412fe"
+      }
+    }
+  ],
+  "defaultAddOns": [],
+  "possibleAddOns": [],
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-24T11:24:48.825Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T11:24:48.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d5475b5da0ad85941304"
+  },
+  "title": {
+    "$oid": "68d3d5475b5da0ad85941301"
+  },
+  "description": {
+    "$oid": "68d1471ee33d4663a3de1c36"
+  },
+  "sizeOptions": [
+    {
+      "size": "350ml",
+      "price": 40000,
+      "_id": {
+        "$oid": "68d3d5475b5da0ad85941305"
+      }
+    }
+  ],
+  "defaultAddOns": [],
+  "possibleAddOns": [],
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-24T11:25:59.907Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T11:25:59.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d5735b5da0ad8594130b"
+  },
+  "title": {
+    "$oid": "68d3d5735b5da0ad85941308"
+  },
+  "description": {
+    "$oid": "68d1471ee33d4663a3de1c36"
+  },
+  "sizeOptions": [
+    {
+      "size": "350ml",
+      "price": 35000,
+      "_id": {
+        "$oid": "68d3d5735b5da0ad8594130c"
+      }
+    }
+  ],
+  "defaultAddOns": [],
+  "possibleAddOns": [],
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-24T11:26:43.803Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T11:26:43.803Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d5bd5b5da0ad85941312"
+  },
+  "title": {
+    "$oid": "68d3d5bd5b5da0ad8594130f"
+  },
+  "description": {
+    "$oid": "68d1471ee33d4663a3de1c36"
+  },
+  "sizeOptions": [
+    {
+      "size": "500ml",
+      "price": 40000,
+      "_id": {
+        "$oid": "68d3d5bd5b5da0ad85941313"
+      }
+    }
+  ],
+  "defaultAddOns": [],
+  "possibleAddOns": [],
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-24T11:27:57.074Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T11:27:57.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d5db5b5da0ad85941319"
+  },
+  "title": {
+    "$oid": "68d3d5db5b5da0ad85941316"
+  },
+  "description": {
+    "$oid": "68d1471ee33d4663a3de1c36"
+  },
+  "sizeOptions": [
+    {
+      "size": "350ml",
+      "price": 30000,
+      "_id": {
+        "$oid": "68d3d5db5b5da0ad8594131a"
+      }
+    }
+  ],
+  "defaultAddOns": [],
+  "possibleAddOns": [],
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-09-24T11:28:27.825Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T11:28:27.825Z"
+  },
+  "__v": 0
+}]

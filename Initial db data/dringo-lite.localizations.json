@@ -1,0 +1,1504 @@
+[{
+  "_id": {
+    "$oid": "68c98e23c80f0989d32e2332"
+  },
+  "key": "Do you accept these terms?",
+  "translations": {
+    "en": "Do you accept these terms?",
+    "ru": "Вы принимаете эти условия?",
+    "uz": "Ushbu shartlarni qabul qilasizmi?"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-16T16:19:47.642Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cabf17fb0d113bc7b9b56d"
+  },
+  "key": "Agreed to terms on {{date}}",
+  "translations": {
+    "en": "Agreed to terms on {{date}}",
+    "ru": "Согласился с условиями {{date}}",
+    "uz": "{{date}} da shartlarni qabul qildi"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-17T14:00:55.401Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cac01201a733f26b06a488"
+  },
+  "key": "You cannot send any messages right now! To continue using this bot, please agree to our Terms!",
+  "translations": {
+    "en": "You cannot send any messages right now! To continue using this bot, please agree to our Terms!",
+    "ru": "Вы не можете отправлять сообщения прямо сейчас! Чтобы продолжить использование бота, пожалуйста, согласитесь с нашими Условиями!",
+    "uz": "Hozir xabar yubora olmaysiz! Botdan foydalanishni davom ettirish uchun Shartlarimizga rozi bo'ling!"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-17T14:05:06.249Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cac0510dd7b6b0a94b8b21"
+  },
+  "key": "Choose your language",
+  "translations": {
+    "en": "Choose your language",
+    "ru": "Выберите ваш язык",
+    "uz": "Tilingizni tanlang"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-17T14:06:09.753Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cac82d266fe141b80a172f"
+  },
+  "key": "You should select one of the options",
+  "translations": {
+    "en": "You should select one of the options",
+    "ru": "Вы должны выбрать один из вариантов",
+    "uz": "Siz variantlardan birini tanlashingiz kerak"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-17T14:39:41.943Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.522Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cacafa39c7939f6cab607f"
+  },
+  "key": "What is your Phone Number?\n\nShould start from +998",
+  "translations": {
+    "en": "What is your Phone Number?\n\nShould start from +998",
+    "ru": "Какой ваш номер телефона?\n\nДолжен начинаться с +998",
+    "uz": "Telefon raqamingiz nechchi?\n\n+998 bilan boshlanishi kerak"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-17T14:51:38.326Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cacafa39c7939f6cab6082"
+  },
+  "key": "Share my contact information",
+  "translations": {
+    "en": "Share my contact information",
+    "ru": "Поделиться моими контактными данными",
+    "uz": "Kontakt ma'lumotlarimni ulashish"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-17T14:51:38.329Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cacbe319ce6c9153a771c3"
+  },
+  "key": "Write your Full Name",
+  "translations": {
+    "en": "Write your Full Name",
+    "ru": "Напишите ваше полное имя",
+    "uz": "To'liq ismingizni yozing"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-17T14:55:31.483Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cacbeb19ce6c9153a771ca"
+  },
+  "key": "Welcome to Samad aka's Coffee Shop!",
+  "translations": {
+    "en": "Welcome to Samad aka's Coffee Shop!",
+    "ru": "Добро пожаловать в кофейню Samad aka!",
+    "uz": "Samad aka kofe do'koniga xush kelibsiz!"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-17T14:55:39.823Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.526Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cacbeb19ce6c9153a771cd"
+  },
+  "key": "☕️ Explore Products",
+  "translations": {
+    "en": "☕️ Explore Products",
+    "ru": "☕️ Изучить продукты",
+    "uz": "☕️ Mahsulotlarni ko'rish"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-17T14:55:39.828Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cacbeb19ce6c9153a771d0"
+  },
+  "key": "📞 Support",
+  "translations": {
+    "en": "📞 Support",
+    "ru": "📞 Поддержка",
+    "uz": "📞 Yordam"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-17T14:55:39.831Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.530Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cacbeb19ce6c9153a771d3"
+  },
+  "key": "⚙️ Settings",
+  "translations": {
+    "en": "⚙️ Settings",
+    "ru": "⚙️ Настройки",
+    "uz": "⚙️ Sozlamalar"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-17T14:55:39.834Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cacbf719ce6c9153a771da"
+  },
+  "key": "Please contact @someone for support",
+  "translations": {
+    "en": "Please contact @someone for support",
+    "ru": "Пожалуйста, обратитесь к @someone за поддержкой",
+    "uz": "Yordam uchun @someone ga murojaat qiling"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-17T14:55:51.538Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cacbf719ce6c9153a771dd"
+  },
+  "key": "🔙 Back",
+  "translations": {
+    "en": "🔙 Back",
+    "ru": "🔙 Назад",
+    "uz": "🔙 Orqaga"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-17T14:55:51.542Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cacbfd19ce6c9153a771e9"
+  },
+  "key": "Settings:",
+  "translations": {
+    "en": "Settings:",
+    "ru": "Настройки:",
+    "uz": "Sozlamalar:"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-17T14:55:57.879Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.533Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cacbfd19ce6c9153a771ec"
+  },
+  "key": "Change Language",
+  "translations": {
+    "en": "Change Language",
+    "ru": "Изменить язык",
+    "uz": "Tilni o'zgartirish"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-17T14:55:57.882Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68cbcb85b24b862ef2d82c2e"
+  },
+  "key": "This is current menu:\n\nNot added products yet...",
+  "translations": {
+    "en": "This is current menu:\n\nNot added products yet...",
+    "ru": "Это текущее меню:\n\nПродукты еще не добавлены...",
+    "uz": "Bu joriy menyu:\n\nMahsulotlar hali qo'shilmagan..."
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-18T09:06:13.628Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d1471ee33d4663a3de1c36"
+  },
+  "key": "...",
+  "translations": {
+    "en": "...",
+    "ru": "...",
+    "uz": "..."
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-22T12:54:54.018Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d14773e33d4663a3de1c4a"
+  },
+  "key": "This is current menu:\n\n",
+  "translations": {
+    "en": "This is current menu:\n\n",
+    "ru": "Это текущее меню:\n\n",
+    "uz": "Bu joriy menyu:\n\n"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-22T12:56:19.412Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d14773e33d4663a3de1c4e"
+  },
+  "key": "🛒 Cart",
+  "translations": {
+    "en": "🛒 Cart",
+    "ru": "🛒 Корзина",
+    "uz": "🛒 Savatcha"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-22T12:56:19.417Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d1477ee33d4663a3de1c64"
+  },
+  "key": "Unknown command!",
+  "translations": {
+    "en": "Unknown command!",
+    "ru": "Неизвестная команда!",
+    "uz": "Noma'lum buyruq!"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-22T12:56:30.541Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.536Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d14a9425e0609edd5323c9"
+  },
+  "key": "Product: {{title}}\nDescription: {{description}}\n\nCurrently selected size: {{size}}\n\nDetails: {{details}}",
+  "translations": {
+    "en": "Product: {{title}}\nDescription: {{description}}\n\nCurrently selected size: {{size}}\n\nDetails: {{details}}",
+    "ru": "Продукт: {{title}}\nОписание: {{description}}\n\nТекущий выбранный размер: {{size}}\n\nДетали: {{details}}",
+    "uz": "Mahsulot: {{title}}\nTavsifi: {{description}}\n\nHozirgi tanlangan o'lcham: {{size}}\n\nTafsilotlar: {{details}}"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-22T13:09:40.906Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d14a9425e0609edd5323cc"
+  },
+  "key": "Edit Details",
+  "translations": {
+    "en": "Edit Details",
+    "ru": "Изменить детали",
+    "uz": "Tafsilotlarni o'zgartirish"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-22T13:09:40.907Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.536Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d14ba89a25144ca6f88db9"
+  },
+  "key": "🍵 Product: {{productName}}\n🛒 Quantity: {{quantity}}\n💵 Total price: {{totalPrice}} UZS\n\nSelected add-ons:\n{{selectedSummary}}",
+  "translations": {
+    "en": "🍵 Product: {{productName}}\n🛒 Quantity: {{quantity}}\n💵 Total price: {{totalPrice}} UZS\n\nSelected add-ons:\n{{selectedSummary}}",
+    "ru": "🍵 Продукт: {{productName}}\n🛒 Количество: {{quantity}}\n💵 Общая цена: {{totalPrice}} UZS\n\nВыбранные добавки:\n{{selectedSummary}}",
+    "uz": "🍵 Mahsulot: {{productName}}\n🛒 Miqdor: {{quantity}}\n💵 Umumiy narx: {{totalPrice}} UZS\n\nTanlangan qo'shimchalar:\n{{selectedSummary}}"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-22T13:14:16.939Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.054Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d14fffc28d6ae9f3f0bdcd"
+  },
+  "key": "Total price: {{totalPrice}} UZS\nYour cart items:",
+  "translations": {
+    "en": "Total price: {{totalPrice}} UZS\nYour cart items:",
+    "ru": "Общая цена: {{totalPrice}} UZS\nВаши товары в корзине:",
+    "uz": "Umumiy narx: {{totalPrice}} UZS\nSavatchadagi mahsulotlaringiz:"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-22T13:32:47.447Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.056Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d14fffc28d6ae9f3f0bdd1"
+  },
+  "key": "🕔 Select Time ➡️",
+  "translations": {
+    "en": "🕔 Select Time ➡️",
+    "ru": "🕔 Выбрать время ➡️",
+    "uz": "🕔 Vaqtni tanlash ➡️"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-22T13:32:47.453Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d28b23902d7c31d3c9763a"
+  },
+  "key": "Espresso",
+  "translations": {
+    "en": "Espresso",
+    "ru": "Эспрессо",
+    "uz": "Espresso"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-23T11:57:23.577Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d292f417c95a4253ce2747"
+  },
+  "key": "Product: {{title}}\nDescription: {{description}}\n\nCurrently selected size: {{size}} - {{price}} UZS\n\nDetails: {{details}}",
+  "translations": {
+    "en": "Product: {{title}}\nDescription: {{description}}\n\nCurrently selected size: {{size}} - {{price}} UZS\n\nDetails: {{details}}",
+    "ru": "Продукт: {{title}}\nОписание: {{description}}\n\nТекущий выбранный размер: {{size}} - {{price}} UZS\n\nДетали: {{details}}",
+    "uz": "Mahsulot: {{title}}\nTavsifi: {{description}}\n\nHozirgi tanlangan o'lcham: {{size}} - {{price}} UZS\n\nTafsilotlar: {{details}}"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-23T12:30:44.081Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d292f417c95a4253ce274b"
+  },
+  "key": "📏 Change Size",
+  "translations": {
+    "en": "📏 Change Size",
+    "ru": "📏 Изменить размер",
+    "uz": "📏 O'lchamni o'zgartirish"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-23T12:30:44.084Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d299c82f61be3a7574f6ad"
+  },
+  "key": "Select most applicable pickup-time:",
+  "translations": {
+    "en": "Select most applicable pickup-time:",
+    "ru": "Выберите наиболее подходящее время получения:",
+    "uz": "Eng mos olib ketish vaqtini tanlang:"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-23T12:59:52.169Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d299ce2f61be3a7574f6b4"
+  },
+  "key": "Transfer money to this bank card:\n4242 4242 4242 4242\nLastName X.\nYou will have to show a screenshot",
+  "translations": {
+    "en": "Transfer money to this bank card:\n4242 4242 4242 4242\nLastName X.\nYou will have to show a screenshot",
+    "ru": "Переведите деньги на эту банковскую карту:\n4242 4242 4242 4242\nLastName X.\nВам нужно будет показать скриншот",
+    "uz": "Pulni ushbu bank kartasiga o'tkazing:\n4242 4242 4242 4242\nLastName X.\nSiz skrinshotni ko'rsatishingiz kerak"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-23T12:59:58.366Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d299ce2f61be3a7574f6b8"
+  },
+  "key": "💵 Have Paid",
+  "translations": {
+    "en": "💵 Have Paid",
+    "ru": "💵 Оплатил",
+    "uz": "💵 To'laganman"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-23T12:59:58.368Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d299d52f61be3a7574f6c3"
+  },
+  "key": "When you take your order press [Done]",
+  "translations": {
+    "en": "When you take your order press [Done]",
+    "ru": "Когда получите заказ, нажмите [Готово]",
+    "uz": "Buyurtmangizni olgach [Tayyor] tugmasini bosing"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-23T13:00:05.127Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d299d52f61be3a7574f6c6"
+  },
+  "key": "Done",
+  "translations": {
+    "en": "Done",
+    "ru": "Готово",
+    "uz": "Tayyor"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-23T13:00:05.129Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d2a0242016afcc90048aba"
+  },
+  "key": "Cappucino",
+  "translations": {
+    "en": "Cappucino",
+    "ru": "Капучино",
+    "uz": "Kapuchino"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-23T13:27:00.222Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d2a332eb9cc4b8030134c4"
+  },
+  "key": "Total price: {{totalPrice}} UZS\n\nYour cart items:{{cartItemsList}}",
+  "translations": {
+    "en": "Total price: {{totalPrice}} UZS\n\nYour cart items:{{cartItemsList}}"
+  },
+  "status": "needs-review",
+  "createdAt": {
+    "$date": "2025-09-23T13:40:02.556Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-23T13:40:02.556Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d2a332eb9cc4b8030134c9"
+  },
+  "key": "🗑️ Remove all items",
+  "translations": {
+    "en": "🗑️ Remove all items",
+    "ru": "🗑️ Удалить все товары",
+    "uz": "🗑️ Barcha mahsulotlarni olib tashlash"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-23T13:40:02.561Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d2a3b1eb9cc4b8030136ef"
+  },
+  "key": "To which language you want to switch?",
+  "translations": {
+    "en": "To which language you want to switch?",
+    "ru": "На какой язык вы хотите переключиться?",
+    "uz": "Qaysi tilga o'tmoqchisiz?"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-23T13:42:09.532Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.541Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d2a3b1eb9cc4b8030136f2"
+  },
+  "key": "🇷🇺 Русский",
+  "translations": {
+    "en": "🇷🇺 Русский",
+    "ru": "🇷🇺 Русский",
+    "uz": "🇷🇺 Rus tili"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-23T13:42:09.534Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d2a3b1eb9cc4b8030136f5"
+  },
+  "key": "🇺🇿 O'zbek tili",
+  "translations": {
+    "en": "🇺🇿 O'zbek tili",
+    "ru": "🇺🇿 Узбекский язык",
+    "uz": "🇺🇿 O'zbek tili"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-23T13:42:09.536Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d2a3b1eb9cc4b8030136f8"
+  },
+  "key": "🇺🇸 English",
+  "translations": {
+    "en": "🇺🇸 English",
+    "ru": "🇺🇸 Английский",
+    "uz": "🇺🇸 Ingliz tili"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-23T13:42:09.537Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d2aded08316fae22c0b3dd"
+  },
+  "key": "➡️ Next",
+  "translations": {
+    "en": "➡️ Next",
+    "ru": "➡️ Далее",
+    "uz": "➡️ Keyingi"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-23T14:25:49.954Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d2b1fa30910a0ba3e6313e"
+  },
+  "key": "No add-ons selected",
+  "translations": {
+    "en": "No add-ons selected",
+    "ru": "Добавки не выбраны",
+    "uz": "Qo'shimchalar tanlanmagan"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-23T14:43:06.336Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d39845122204fc077a3580"
+  },
+  "key": "[Next]",
+  "translations": {
+    "en": "[Next]",
+    "ru": "[Далее]",
+    "uz": "[Keyingi]"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T07:05:41.831Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.541Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d398df55ac53a77f8af0bc"
+  },
+  "key": "Next ➡️",
+  "translations": {
+    "en": "Next ➡️",
+    "ru": "Далее ➡️",
+    "uz": "Keyingi ➡️"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T07:08:15.433Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.542Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3ce015b5da0ad8594127a"
+  },
+  "key": "Kakao",
+  "translations": {
+    "en": "Kakao",
+    "ru": "Какао",
+    "uz": "Kakao"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T10:54:57.906Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3ceb15b5da0ad8594128e"
+  },
+  "key": "Americano",
+  "translations": {
+    "en": "Americano",
+    "ru": "Американо",
+    "uz": "Amerikano"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T10:57:53.344Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d1f25b5da0ad859412a2"
+  },
+  "key": "Latte",
+  "translations": {
+    "en": "Latte",
+    "ru": "Латте",
+    "uz": "Latte"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T11:11:46.761Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:08:21.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d2745b5da0ad859412b6"
+  },
+  "key": "Hot Chocolate",
+  "translations": {
+    "en": "Hot Chocolate",
+    "ru": "Горячий шоколад",
+    "uz": "Issiq shokolad"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T11:13:56.021Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.067Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d2b45b5da0ad859412ca"
+  },
+  "key": "Flat White",
+  "translations": {
+    "en": "Flat White",
+    "ru": "Флэт уайт",
+    "uz": "Flat White"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T11:15:00.185Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.067Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d39f5b5da0ad859412dd"
+  },
+  "key": "Black Tea",
+  "translations": {
+    "en": "Black Tea",
+    "ru": "Черный чай",
+    "uz": "Qora choy"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T11:18:55.635Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d3b55b5da0ad859412e8"
+  },
+  "key": "Green Tea",
+  "translations": {
+    "en": "Green Tea",
+    "ru": "Зеленый чай",
+    "uz": "Ko'k choy"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T11:19:17.074Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d4bd5b5da0ad859412f3"
+  },
+  "key": "Iris-Caramel Latte",
+  "translations": {
+    "en": "Iris-Caramel Latte",
+    "ru": "Латте Ирис-Карамель",
+    "uz": "Iris-Karamel Latte"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T11:23:41.992Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d5005b5da0ad859412fa"
+  },
+  "key": "Choco-Mint Cappuccino",
+  "translations": {
+    "en": "Choco-Mint Cappuccino",
+    "ru": "Шоколадно-мятный капучино",
+    "uz": "Shokolad-yalpiz Kapuchino"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T11:24:48.822Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.070Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d5475b5da0ad85941301"
+  },
+  "key": "Original Raf",
+  "translations": {
+    "en": "Original Raf",
+    "ru": "Оригинальный Раф",
+    "uz": "Original Raf"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T11:25:59.904Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d5735b5da0ad85941308"
+  },
+  "key": "Raf Baunty",
+  "translations": {
+    "en": "Raf Baunty",
+    "ru": "Раф Баунти",
+    "uz": "Raf Baunty"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T11:26:43.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d5bd5b5da0ad8594130f"
+  },
+  "key": "Bumble Coffee",
+  "translations": {
+    "en": "Bumble Coffee",
+    "ru": "Бамбл кофе",
+    "uz": "Bumble Coffee"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T11:27:57.071Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d5db5b5da0ad85941316"
+  },
+  "key": "Raf Coffee",
+  "translations": {
+    "en": "Raf Coffee",
+    "ru": "Раф кофе",
+    "uz": "Raf Coffee"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T11:28:27.822Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.073Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d7ed1fff680648bd0343"
+  },
+  "key": "**Total price: 191,000 UZS**\n\nYour cart items:{{cartItemsList}}",
+  "translations": {
+    "en": "**Total price: 191,000 UZS**\n\nYour cart items:{{cartItemsList}}",
+    "ru": "**Общая цена: 191,000 UZS**\n\nВаши товары в корзине:{{cartItemsList}}",
+    "uz": "**Umumiy narx: 191,000 UZS**\n\nSavatchadagi mahsulotlaringiz:{{cartItemsList}}"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T11:37:17.310Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d839c4fe459ffea1a7cb"
+  },
+  "key": "**Total price: 47,000 UZS**\n\nYour cart items:{{cartItemsList}}",
+  "translations": {
+    "en": "**Total price: 47,000 UZS**\n\nYour cart items:{{cartItemsList}}",
+    "ru": "**Общая цена: 47,000 UZS**\n\nВаши товары в корзине:{{cartItemsList}}",
+    "uz": "**Umumiy narx: 47,000 UZS**\n\nSavatchadagi mahsulotlaringiz:{{cartItemsList}}"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T11:38:33.669Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d848c4fe459ffea1a892"
+  },
+  "key": "**Total price: 38,000 UZS**\n\nYour cart items:{{cartItemsList}}",
+  "translations": {
+    "en": "**Total price: 38,000 UZS**\n\nYour cart items:{{cartItemsList}}",
+    "ru": "**Общая цена: 38,000 UZS**\n\nВаши товары в корзине:{{cartItemsList}}",
+    "uz": "**Umumiy narx: 38,000 UZS**\n\nSavatchadagi mahsulotlaringiz:{{cartItemsList}}"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T11:38:48.880Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.075Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d8d914b6f6e6e87fb130"
+  },
+  "key": "**Total price: 7,000 UZS**\n\nYour cart items:{{cartItemsList}}",
+  "translations": {
+    "en": "**Total price: 7,000 UZS**\n\nYour cart items:{{cartItemsList}}",
+    "ru": "**Общая цена: 7,000 UZS**\n\nВаши товары в корзине:{{cartItemsList}}",
+    "uz": "**Umumiy narx: 7,000 UZS**\n\nSavatchadagi mahsulotlaringiz:{{cartItemsList}}"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T11:41:13.385Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.076Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d90c14b6f6e6e87fb360"
+  },
+  "key": "**Total price: 45,000 UZS**\n\nYour cart items:{{cartItemsList}}",
+  "translations": {
+    "en": "**Total price: 45,000 UZS**\n\nYour cart items:{{cartItemsList}}",
+    "ru": "**Общая цена: 45,000 UZS**\n\nВаши товары в корзине:{{cartItemsList}}",
+    "uz": "**Umumiy narx: 45,000 UZS**\n\nSavatchadagi mahsulotlaringiz:{{cartItemsList}}"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T11:42:04.018Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3d99ab86889378d5e9894"
+  },
+  "key": "*Total price: 20,000 UZS*\n\nYour cart items:{{cartItemsList}}",
+  "translations": {
+    "en": "*Total price: 20,000 UZS*\n\nYour cart items:{{cartItemsList}}",
+    "ru": "*Общая цена: 20,000 UZS*\n\nВаши товары в корзине:{{cartItemsList}}",
+    "uz": "*Umumiy narx: 20,000 UZS*\n\nSavatchadagi mahsulotlaringiz:{{cartItemsList}}"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T11:44:26.150Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3da4b216deef5214c17c5"
+  },
+  "key": "*Total price: 61,000 UZS*\n\nYour cart items:{{cartItemsList}}",
+  "translations": {
+    "en": "*Total price: 61,000 UZS*\n\nYour cart items:{{cartItemsList}}",
+    "ru": "*Общая цена: 61,000 UZS*\n\nВаши товары в корзине:{{cartItemsList}}",
+    "uz": "*Umumiy narx: 61,000 UZS*\n\nSavatchadagi mahsulotlaringiz:{{cartItemsList}}"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T11:47:23.704Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3da62216deef5214c192f"
+  },
+  "key": "*Total price: 25,000 UZS*\n\nYour cart items:{{cartItemsList}}",
+  "translations": {
+    "en": "*Total price: 25,000 UZS*\n\nYour cart items:{{cartItemsList}}",
+    "ru": "*Общая цена: 25,000 UZS*\n\nВаши товары в корзине:{{cartItemsList}}",
+    "uz": "*Umumiy narx: 25,000 UZS*\n\nSavatchadagi mahsulotlaringiz:{{cartItemsList}}"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T11:47:46.648Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3dbd304c2fb75f851a4ad"
+  },
+  "key": "*Total price: 50,000 UZS*\n\nYour cart items:{{cartItemsList}}",
+  "translations": {
+    "en": "*Total price: 50,000 UZS*\n\nYour cart items:{{cartItemsList}}",
+    "ru": "*Общая цена: 50,000 UZS*\n\nВаши товары в корзине:{{cartItemsList}}",
+    "uz": "*Umumiy narx: 50,000 UZS*\n\nSavatchadagi mahsulotlaringiz:{{cartItemsList}}"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T11:53:55.029Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3dbd604c2fb75f851a4df"
+  },
+  "key": "*Your Order Summary:*\n\n• Kakao \\(350ml\\) x1 \\- 25,000 UZS\n• Latte \\(350ml\\) x1 \\- 25,000 UZS\n\n*Total Amount: 50,000 UZS*\n\nTransfer money to this bank card:\n4242 4242 4242 4242\nLastName X\\.\n\nYou will have to show a screenshot",
+  "translations": {
+    "en": "*Your Order Summary:*\n\n• Kakao \\(350ml\\) x1 \\- 25,000 UZS\n• Latte \\(350ml\\) x1 \\- 25,000 UZS\n\n*Total Amount: 50,000 UZS*\n\nTransfer money to this bank card:\n4242 4242 4242 4242\nLastName X\\.\n\nYou will have to show a screenshot"
+  },
+  "status": "needs-review",
+  "createdAt": {
+    "$date": "2025-09-24T11:53:58.484Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T11:53:58.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3dc4f4c32226ffd3a0203"
+  },
+  "key": "*Total price: 30,000 UZS*\n\nYour cart items:{{cartItemsList}}",
+  "translations": {
+    "en": "*Total price: 30,000 UZS*\n\nYour cart items:{{cartItemsList}}",
+    "ru": "*Общая цена: 30,000 UZS*\n\nВаши товары в корзине:{{cartItemsList}}",
+    "uz": "*Umumiy narx: 30,000 UZS*\n\nSavatchadagi mahsulotlaringiz:{{cartItemsList}}"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T11:55:59.409Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:09:09.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3dc544c32226ffd3a0214"
+  },
+  "key": "*Your Order Summary:*\n\n• Iris\\-Caramel Latte \\(350ml\\) x1 \\- 30,000 UZS\n\n*Total Amount: 30,000 UZS*\n\nTransfer money to this bank card:\n`4242 4242 4242 4242`\nLastName X\\.\n\nYou will have to show a screenshot",
+  "translations": {
+    "en": "*Your Order Summary:*\n\n• Iris\\-Caramel Latte \\(350ml\\) x1 \\- 30,000 UZS\n\n*Total Amount: 30,000 UZS*\n\nTransfer money to this bank card:\n`4242 4242 4242 4242`\nLastName X\\.\n\nYou will have to show a screenshot"
+  },
+  "status": "needs-review",
+  "createdAt": {
+    "$date": "2025-09-24T11:56:04.236Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T11:56:04.236Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3e04a2287338348ef36b2"
+  },
+  "key": "*Your Order Summary:*\n\n• Капучино \\(350ml\\) x2 \\- 50,000 UZS\n\n*Total Amount: 50,000 UZS*\n\nTransfer money to this bank card:\n`4242 4242 4242 4242`\nLastName X\\.\n\nYou will have to show a screenshot",
+  "translations": {
+    "en": "*Your Order Summary:*\n\n• Капучино \\(350ml\\) x2 \\- 50,000 UZS\n\n*Total Amount: 50,000 UZS*\n\nTransfer money to this bank card:\n`4242 4242 4242 4242`\nLastName X\\.\n\nYou will have to show a screenshot"
+  },
+  "status": "needs-review",
+  "createdAt": {
+    "$date": "2025-09-24T12:12:58.088Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:12:58.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3e13433a128b52c3c863f"
+  },
+  "key": "Your Order Summary:",
+  "translations": {
+    "en": "Your Order Summary:",
+    "ru": "Краткое изложение вашего заказа:",
+    "uz": "Buyurtmangiz xulosasi:"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T12:16:52.527Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:16:52.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3e13433a128b52c3c8642"
+  },
+  "key": "Total Amount:",
+  "translations": {
+    "en": "Total Amount:",
+    "ru": "Общая сумма:",
+    "uz": "Umumiy summa:"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T12:16:52.532Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:16:52.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3e13433a128b52c3c8645"
+  },
+  "key": "Transfer money to this bank card:",
+  "translations": {
+    "en": "Transfer money to this bank card:",
+    "ru": "Переведите деньги на эту банковскую карту:",
+    "uz": "Pulni ushbu bank kartasiga o'tkazing:"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T12:16:52.534Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:16:52.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3e13433a128b52c3c8648"
+  },
+  "key": "You will have to show a screenshot",
+  "translations": {
+    "en": "You will have to show a screenshot",
+    "ru": "Вам нужно будет показать скриншот",
+    "uz": "Siz skrinshotni ko'rsatishingiz kerak"
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T12:16:52.537Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:16:52.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3e13433a128b52c3c864b"
+  },
+  "key": "LastName X.",
+  "translations": {
+    "en": "LastName X.",
+    "ru": "Фамилия X.",
+    "uz": "Familiya X."
+  },
+  "status": "approved",
+  "createdAt": {
+    "$date": "2025-09-24T12:16:52.539Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:16:52.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3e21faef2704d36825e48"
+  },
+  "key": "*Total price: 10,000 UZS*\n\nYour cart items:{{cartItemsList}}",
+  "translations": {
+    "en": "*Total price: 10,000 UZS*\n\nYour cart items:{{cartItemsList}}"
+  },
+  "status": "needs-review",
+  "createdAt": {
+    "$date": "2025-09-24T12:20:47.835Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:20:47.835Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3ea0752fb6a3fc32494d8"
+  },
+  "key": "*Total price: 99,000 UZS*\n\nYour cart items:{{cartItemsList}}",
+  "translations": {
+    "en": "*Total price: 99,000 UZS*\n\nYour cart items:{{cartItemsList}}"
+  },
+  "status": "needs-review",
+  "createdAt": {
+    "$date": "2025-09-24T12:54:31.031Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:54:31.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3eac0cfd46d20483da8f2"
+  },
+  "key": "*Total price: 76,000 UZS*\n\nYour cart items:{{cartItemsList}}",
+  "translations": {
+    "en": "*Total price: 76,000 UZS*\n\nYour cart items:{{cartItemsList}}"
+  },
+  "status": "needs-review",
+  "createdAt": {
+    "$date": "2025-09-24T12:57:36.277Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T12:57:36.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d3ebd1283f308e71c31b4b"
+  },
+  "key": "*Total price: 146,000 UZS*\n\nYour cart items:{{cartItemsList}}",
+  "translations": {
+    "en": "*Total price: 146,000 UZS*\n\nYour cart items:{{cartItemsList}}"
+  },
+  "status": "needs-review",
+  "createdAt": {
+    "$date": "2025-09-24T13:02:09.339Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-24T13:02:09.339Z"
+  },
+  "__v": 0
+}]

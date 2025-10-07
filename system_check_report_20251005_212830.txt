@@ -1,0 +1,31 @@
+Dringo Lite - System Check Report
+Generated: 05 Oktabr, 2025 yil, Yakshanba
+==================================
+
+System Information:
+OS: Linux M710q 6.8.0-85-generic #85~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Sep 19 16:18:59 UTC 2 x86_64 x86_64 x86_64 GNU/Linux
+Uptime:  21:28:30 up 9 min,  1 user,  load average: 0.07, 0.11, 0.08
+
+Node.js: v24.9.0
+npm: 11.6.0
+MongoDB: db version v6.0.26
+
+Memory:
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       852Mi       5.1Gi       177Mi       1.8Gi       6.4Gi
+Swap:          2.0Gi          0B       2.0Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p2  234G   14G  208G   7% /
+
+Running Processes:
+root         573  0.0  0.1  76056 13952 ?        Ss   21:19   0:00 /usr/sbin/cupsd -l
+root         998  0.0  0.0   2796  1792 ?        Ss   21:19   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+mongodb     1601  0.4  1.6 2598972 134528 ?      Ssl  21:19   0:02 /usr/bin/mongod --config /etc/mongod.conf
+
+Network:
+tcp        0      0 127.0.0.1:27017         0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      -                   
+tcp6       0      0 ::1:631                 :::*                    LISTEN      -                   
+

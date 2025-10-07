@@ -1,0 +1,1036 @@
+[
+{
+  "_id": {
+    "$oid": "68d6bebb9aaa547bbd98fb31"
+  },
+  "telegramId": 1025687728,
+  "agreedToTerms": false,
+  "state": "paying-for-order",
+  "stateDetails": "21:06",
+  "cart": [
+    {
+      "product": {
+        "$oid": "68d3d5bd5b5da0ad85941312"
+      },
+      "quantity": 4,
+      "sizeOption": {
+        "size": "500ml",
+        "price": 40000
+      },
+      "addOns": [],
+      "currentItem": 3,
+      "totalPrice": 160000,
+      "_id": {
+        "$oid": "68daa9ee7efc823c51346b03"
+      }
+    },
+    {
+      "product": {
+        "$oid": "68d3d5db5b5da0ad85941319"
+      },
+      "quantity": 4,
+      "sizeOption": {
+        "size": "350ml",
+        "price": 30000
+      },
+      "addOns": [],
+      "currentItem": 3,
+      "totalPrice": 120000,
+      "_id": {
+        "$oid": "68daa9ff7efc823c51346bd9"
+      }
+    },
+    {
+      "product": {
+        "$oid": "68d3d5735b5da0ad8594130b"
+      },
+      "quantity": 4,
+      "sizeOption": {
+        "size": "350ml",
+        "price": 35000
+      },
+      "addOns": [],
+      "currentItem": 3,
+      "totalPrice": 140000,
+      "_id": {
+        "$oid": "68daaa0e7efc823c51346ca9"
+      }
+    },
+    {
+      "product": {
+        "$oid": "68d3d5475b5da0ad85941304"
+      },
+      "quantity": 4,
+      "sizeOption": {
+        "size": "350ml",
+        "price": 40000
+      },
+      "addOns": [],
+      "currentItem": 3,
+      "totalPrice": 160000,
+      "_id": {
+        "$oid": "68daaa1a7efc823c51346d88"
+      }
+    },
+    {
+      "product": {
+        "$oid": "68d3d5005b5da0ad859412fd"
+      },
+      "quantity": 4,
+      "sizeOption": {
+        "size": "350ml",
+        "price": 30000
+      },
+      "addOns": [],
+      "currentItem": 3,
+      "totalPrice": 120000,
+      "_id": {
+        "$oid": "68daaa247efc823c51346e64"
+      }
+    },
+    {
+      "product": {
+        "$oid": "68d3d4bd5b5da0ad859412f6"
+      },
+      "quantity": 4,
+      "sizeOption": {
+        "size": "350ml",
+        "price": 30000
+      },
+      "addOns": [],
+      "currentItem": 3,
+      "totalPrice": 120000,
+      "_id": {
+        "$oid": "68daaa3c7efc823c51346f55"
+      }
+    },
+    {
+      "product": {
+        "$oid": "68d3d3b55b5da0ad859412eb"
+      },
+      "quantity": 4,
+      "sizeOption": {
+        "size": "350ml",
+        "price": 7000
+      },
+      "addOns": [
+        {
+          "forItem": 0,
+          "kind": "Sugars:",
+          "option": "3",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaa517efc823c513470e0"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Lemons:",
+          "option": "Lemon",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaa547efc823c51347112"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Sugars:",
+          "option": "3",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaa557efc823c5134712f"
+          }
+        }
+      ],
+      "currentItem": 3,
+      "totalPrice": 31000,
+      "_id": {
+        "$oid": "68daaa4a7efc823c51347053"
+      }
+    },
+    {
+      "product": {
+        "$oid": "68d3d39f5b5da0ad859412e0"
+      },
+      "quantity": 4,
+      "sizeOption": {
+        "size": "350ml",
+        "price": 7000
+      },
+      "addOns": [
+        {
+          "forItem": 3,
+          "kind": "Sugars:",
+          "option": "3",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaa637efc823c51347279"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Lemons:",
+          "option": "Lemon",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaa647efc823c51347299"
+          }
+        }
+      ],
+      "currentItem": 3,
+      "totalPrice": 31000,
+      "_id": {
+        "$oid": "68daaa597efc823c513471ce"
+      }
+    },
+    {
+      "product": {
+        "$oid": "68d3d2b45b5da0ad859412cd"
+      },
+      "quantity": 4,
+      "sizeOption": {
+        "size": "250ml",
+        "price": 23000
+      },
+      "addOns": [
+        {
+          "forItem": 0,
+          "kind": "Sugars:",
+          "option": "2",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaa677efc823c51347347"
+          }
+        },
+        {
+          "forItem": 1,
+          "kind": "Sugars:",
+          "option": "2",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaa697efc823c5134737a"
+          }
+        },
+        {
+          "forItem": 2,
+          "kind": "Sugars:",
+          "option": "2",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaa6a7efc823c513473ae"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Sugars:",
+          "option": "3",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaa707efc823c51347467"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Syrops:",
+          "option": "Chocolate",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaa727efc823c513474d4"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Marshmellows:",
+          "option": "Marshmellow",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaa737efc823c5134750b"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Whipped Cream (slivki):",
+          "option": "Whipped Cream",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaa747efc823c51347543"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Topping:",
+          "option": "Topping",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaa757efc823c5134757c"
+          }
+        }
+      ],
+      "currentItem": 3,
+      "totalPrice": 104000,
+      "_id": {
+        "$oid": "68daaa677efc823c51347346"
+      }
+    },
+    {
+      "product": {
+        "$oid": "68d3d2745b5da0ad859412b9"
+      },
+      "quantity": 4,
+      "sizeOption": {
+        "size": "350ml",
+        "price": 25000
+      },
+      "addOns": [
+        {
+          "forItem": 0,
+          "kind": "Sugars:",
+          "option": "2",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaa787efc823c51347645"
+          }
+        },
+        {
+          "forItem": 1,
+          "kind": "Sugars:",
+          "option": "2",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaa7a7efc823c51347683"
+          }
+        },
+        {
+          "forItem": 2,
+          "kind": "Sugars:",
+          "option": "2",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaa7a7efc823c513476c2"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Syrops:",
+          "option": "Vanilla",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaa817efc823c51347817"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Marshmellows:",
+          "option": "Marshmellow",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaa827efc823c51347858"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Whipped Cream (slivki):",
+          "option": "Whipped Cream",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaa857efc823c5134789a"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Topping:",
+          "option": "Topping",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaa867efc823c513478dd"
+          }
+        }
+      ],
+      "currentItem": 3,
+      "totalPrice": 112000,
+      "_id": {
+        "$oid": "68daaa787efc823c51347644"
+      }
+    },
+    {
+      "product": {
+        "$oid": "68d3d1f25b5da0ad859412a5"
+      },
+      "quantity": 4,
+      "sizeOption": {
+        "size": "350ml",
+        "price": 25000
+      },
+      "addOns": [
+        {
+          "forItem": 0,
+          "kind": "Sugars:",
+          "option": "2",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaa8b7efc823c513479b7"
+          }
+        },
+        {
+          "forItem": 1,
+          "kind": "Sugars:",
+          "option": "2",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaa8e7efc823c513479fd"
+          }
+        },
+        {
+          "forItem": 2,
+          "kind": "Sugars:",
+          "option": "2",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaa8f7efc823c51347a44"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Sugars:",
+          "option": "3",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaa947efc823c51347b47"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Marshmellows:",
+          "option": "Marshmellow",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaa967efc823c51347bda"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Whipped Cream (slivki):",
+          "option": "Whipped Cream",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaa977efc823c51347c25"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Topping:",
+          "option": "Topping",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaa987efc823c51347c71"
+          }
+        }
+      ],
+      "currentItem": 3,
+      "totalPrice": 109000,
+      "_id": {
+        "$oid": "68daaa8b7efc823c513479b6"
+      }
+    },
+    {
+      "product": {
+        "$oid": "68d3ceb15b5da0ad85941291"
+      },
+      "quantity": 4,
+      "sizeOption": {
+        "size": "300ml",
+        "price": 21000
+      },
+      "addOns": [
+        {
+          "forItem": 0,
+          "kind": "Sugars:",
+          "option": "2",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaa9c7efc823c51347d98"
+          }
+        },
+        {
+          "forItem": 1,
+          "kind": "Sugars:",
+          "option": "2",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaa9d7efc823c51347de6"
+          }
+        },
+        {
+          "forItem": 2,
+          "kind": "Sugars:",
+          "option": "2",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaa9e7efc823c51347e35"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Sugars:",
+          "option": "3",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaaa37efc823c51347f58"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Marshmellows:",
+          "option": "Marshmellow",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaaa57efc823c51347ffb"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Whipped Cream (slivki):",
+          "option": "Whipped Cream",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaaa77efc823c51348090"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Topping:",
+          "option": "Topping",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaaa97efc823c513480e3"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Syrops:",
+          "option": "Chocolate",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaaab7efc823c51348137"
+          }
+        }
+      ],
+      "currentItem": 3,
+      "totalPrice": 96000,
+      "_id": {
+        "$oid": "68daaa9c7efc823c51347d97"
+      }
+    },
+    {
+      "product": {
+        "$oid": "68d3ce015b5da0ad8594127d"
+      },
+      "quantity": 4,
+      "sizeOption": {
+        "size": "350ml",
+        "price": 25000
+      },
+      "addOns": [
+        {
+          "forItem": 0,
+          "kind": "Sugars:",
+          "option": "2",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaaaf7efc823c51348233"
+          }
+        },
+        {
+          "forItem": 1,
+          "kind": "Sugars:",
+          "option": "2",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaab17efc823c5134828a"
+          }
+        },
+        {
+          "forItem": 2,
+          "kind": "Sugars:",
+          "option": "2",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaab17efc823c513482e2"
+          }
+        },
+        {
+          "forItem": 0,
+          "kind": "Syrops:",
+          "option": "Chocolate",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaab57efc823c513483df"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Sugars:",
+          "option": "3",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaab87efc823c51348485"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Marshmellows:",
+          "option": "Marshmellow",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaaba7efc823c513484e0"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Whipped Cream (slivki):",
+          "option": "Whipped Cream",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaabb7efc823c5134853c"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Topping:",
+          "option": "Topping",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaabc7efc823c51348599"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Syrops:",
+          "option": "Chocolate",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaabd7efc823c513485f7"
+          }
+        }
+      ],
+      "currentItem": 3,
+      "totalPrice": 115000,
+      "_id": {
+        "$oid": "68daaaaf7efc823c51348232"
+      }
+    },
+    {
+      "product": {
+        "$oid": "68d2a0242016afcc90048abd"
+      },
+      "quantity": 4,
+      "sizeOption": {
+        "size": "350ml",
+        "price": 25000
+      },
+      "addOns": [
+        {
+          "forItem": 3,
+          "kind": "Sugars:",
+          "option": "3",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaac87efc823c5134892e"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Syrops:",
+          "option": "Chocolate",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaaca7efc823c51348990"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Marshmellows:",
+          "option": "Marshmellow",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaace7efc823c513489f3"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Whipped Cream (slivki):",
+          "option": "Whipped Cream",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaacf7efc823c51348a57"
+          }
+        },
+        {
+          "forItem": 3,
+          "kind": "Topping:",
+          "option": "Topping",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaad17efc823c51348abc"
+          }
+        },
+        {
+          "forItem": 2,
+          "kind": "Sugars:",
+          "option": "3",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaad47efc823c51348b79"
+          }
+        },
+        {
+          "forItem": 2,
+          "kind": "Syrops:",
+          "option": "Chocolate",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaad57efc823c51348bdf"
+          }
+        },
+        {
+          "forItem": 2,
+          "kind": "Marshmellows:",
+          "option": "Marshmellow",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaad67efc823c51348c46"
+          }
+        },
+        {
+          "forItem": 2,
+          "kind": "Topping:",
+          "option": "Topping",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaada7efc823c51348cf3"
+          }
+        },
+        {
+          "forItem": 2,
+          "kind": "Whipped Cream (slivki):",
+          "option": "Whipped Cream",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaadb7efc823c51348d5c"
+          }
+        },
+        {
+          "forItem": 1,
+          "kind": "Sugars:",
+          "option": "3",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaae17efc823c51348e21"
+          }
+        },
+        {
+          "forItem": 1,
+          "kind": "Syrops:",
+          "option": "Chocolate",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaae17efc823c51348e8b"
+          }
+        },
+        {
+          "forItem": 1,
+          "kind": "Marshmellows:",
+          "option": "Marshmellow",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaae37efc823c51348ef6"
+          }
+        },
+        {
+          "forItem": 1,
+          "kind": "Whipped Cream (slivki):",
+          "option": "Whipped Cream",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaae47efc823c51348f62"
+          }
+        },
+        {
+          "forItem": 1,
+          "kind": "Topping:",
+          "option": "Topping",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaae57efc823c51348fcf"
+          }
+        },
+        {
+          "forItem": 0,
+          "kind": "Sugars:",
+          "option": "3",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaae97efc823c5134909c"
+          }
+        },
+        {
+          "forItem": 0,
+          "kind": "Syrops:",
+          "option": "Chocolate",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaaea7efc823c5134910a"
+          }
+        },
+        {
+          "forItem": 0,
+          "kind": "Marshmellows:",
+          "option": "Marshmellow",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaaeb7efc823c51349179"
+          }
+        },
+        {
+          "forItem": 0,
+          "kind": "Whipped Cream (slivki):",
+          "option": "Whipped Cream",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaaed7efc823c51349236"
+          }
+        },
+        {
+          "forItem": 0,
+          "kind": "Topping:",
+          "option": "Topping",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaaee7efc823c513492a7"
+          }
+        }
+      ],
+      "currentItem": 0,
+      "totalPrice": 148000,
+      "_id": {
+        "$oid": "68daaac07efc823c51348705"
+      }
+    },
+    {
+      "product": {
+        "$oid": "68d28c3f49928d96d4c6bbf2"
+      },
+      "quantity": 4,
+      "sizeOption": {
+        "size": "60ml",
+        "price": 20000
+      },
+      "addOns": [
+        {
+          "forItem": 3,
+          "kind": "Sugars:",
+          "option": "2",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaaf67efc823c5134953e"
+          }
+        },
+        {
+          "forItem": 0,
+          "kind": "Sugars:",
+          "option": "3",
+          "price": 0,
+          "_id": {
+            "$oid": "68daaaf97efc823c5134961d"
+          }
+        },
+        {
+          "forItem": 0,
+          "kind": "Syrops:",
+          "option": "Chocolate",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaafb7efc823c51349694"
+          }
+        },
+        {
+          "forItem": 0,
+          "kind": "Marshmellows:",
+          "option": "Marshmellow",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaafc7efc823c5134970c"
+          }
+        },
+        {
+          "forItem": 0,
+          "kind": "Whipped Cream (slivki):",
+          "option": "Whipped Cream",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaafd7efc823c51349785"
+          }
+        },
+        {
+          "forItem": 0,
+          "kind": "Topping:",
+          "option": "Topping",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daaafe7efc823c513497ff"
+          }
+        },
+        {
+          "forItem": 1,
+          "kind": "Sugars:",
+          "option": "3",
+          "price": 0,
+          "_id": {
+            "$oid": "68daab007efc823c513498e6"
+          }
+        },
+        {
+          "forItem": 1,
+          "kind": "Syrops:",
+          "option": "Chocolate",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daab027efc823c51349961"
+          }
+        },
+        {
+          "forItem": 1,
+          "kind": "Marshmellows:",
+          "option": "Marshmellow",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daab037efc823c513499dd"
+          }
+        },
+        {
+          "forItem": 1,
+          "kind": "Whipped Cream (slivki):",
+          "option": "Whipped Cream",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daab047efc823c51349a5a"
+          }
+        },
+        {
+          "forItem": 1,
+          "kind": "Topping:",
+          "option": "Topping",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daab057efc823c51349ad8"
+          }
+        },
+        {
+          "forItem": 2,
+          "kind": "Sugars:",
+          "option": "3",
+          "price": 0,
+          "_id": {
+            "$oid": "68daab077efc823c51349bc7"
+          }
+        },
+        {
+          "forItem": 2,
+          "kind": "Syrops:",
+          "option": "Chocolate",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daab087efc823c51349c46"
+          }
+        },
+        {
+          "forItem": 2,
+          "kind": "Marshmellows:",
+          "option": "Marshmellow",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daab097efc823c51349cc6"
+          }
+        },
+        {
+          "forItem": 2,
+          "kind": "Whipped Cream (slivki):",
+          "option": "Whipped Cream",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daab0a7efc823c51349d47"
+          }
+        },
+        {
+          "forItem": 2,
+          "kind": "Topping:",
+          "option": "Topping",
+          "price": 3000,
+          "_id": {
+            "$oid": "68daab0b7efc823c51349dc9"
+          }
+        }
+      ],
+      "currentItem": 2,
+      "totalPrice": 116000,
+      "_id": {
+        "$oid": "68daaaf27efc823c513493de"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-26T16:26:35.113Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T15:51:58.128Z"
+  },
+  "__v": 165,
+  "lastSeenMessageId": 972,
+  "preferredLanguage": "ru",
+  "phoneNumber": "998990252005",
+  "fullName": "Donik"
+},
+{
+  "_id": {
+    "$oid": "68d7639af8f44eb14aff2f48"
+  },
+  "telegramId": 1022434620,
+  "agreedToTerms": false,
+  "state": "none",
+  "stateDetails": "none",
+  "cart": [],
+  "createdAt": {
+    "$date": "2025-09-27T04:10:02.262Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T15:24:03.277Z"
+  },
+  "__v": 20,
+  "lastSeenMessageId": 945,
+  "preferredLanguage": "en",
+  "phoneNumber": "998884752020",
+  "fullName": "Nodira Abdullaeva"
+},
+{
+  "_id": {
+    "$oid": "68da6cb7d108ff5606bcfe44"
+  },
+  "telegramId": {
+    "$numberLong": "7557294898"
+  },
+  "agreedToTerms": false,
+  "state": "none",
+  "stateDetails": "none",
+  "cart": [],
+  "createdAt": {
+    "$date": "2025-09-29T11:25:43.071Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-29T15:09:41.241Z"
+  },
+  "__v": 46,
+  "lastSeenMessageId": 934,
+  "preferredLanguage": "en",
+  "phoneNumber": "998955450488",
+  "fullName": "Job Stivenson"
+}]
